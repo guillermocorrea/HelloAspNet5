@@ -1,11 +1,12 @@
 # HelloAspNet5
 A hello world asp.net 5 app
 
-1.	Install
-	
-	cd TodoApi
-	dnu restore
-	
-2. Run
+1. Install:
 
-	xdn kestrel
+        cd TodoApi
+        dnu restore
+        
+2. Install:
+
+        dnx kestrel
+        
