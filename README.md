@@ -6,7 +6,8 @@ A hello world asp.net 5 app
         cd TodoApi
         dnu restore
         
-2. Install:
+2. Run:
 
         dnx kestrel
         
+2. Go to http://localhost:5000/api/todo
