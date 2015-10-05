@@ -10,4 +10,4 @@ A hello world asp.net 5 app
 
         dnx kestrel
         
-2. Go to http://localhost:5000/api/todo
+2. Go to [http://localhost:5000/api/todo](http://localhost:5000/api/todo)
